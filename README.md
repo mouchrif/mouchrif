@@ -20,10 +20,9 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
 ## Examples Of Works
 
 <a href="https://drive.google.com/file/d/1n98uhpCRRxxGVinDoLPZL47WOPMo11hU/view?usp=sharing" 
-   target="_blank"><img src="grocery_app.png" alt="Grocery App" width="240" height="180" border="10" /></a>
-   
+   target="_blank"><img src="grocery_app.png" alt="Grocery App" width="240" height="120" border="10" /></a>  
 <a href="https://drive.google.com/file/d/14l-WotZCA0K0lVBm8FwcleVP25rGO79G/view?usp=sharing" 
-   target="_blank"><img src="siya9a.png" alt="Grocery App" width="240" height="180" border="10" /></a>
+   target="_blank"><img src="siya9a.png" alt="Grocery App" width="240" height="120" border="10" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouchrif)](https://github.com/anuraghazra/github-readme-stats)
 
