@@ -4,7 +4,8 @@
 
 I'm a Flutter Developer located in morocco. I have a serious passion for mobile application UI effects, animations, and creating intuitive, dynamic user experiences.
 
-## Skills And Experience
+## 
+## Skills
 <ul>
   <li><img src="flutter.png" height="16"/> Flutter</li>
   <li><img src="dart.png" height="16"/> Dart</li>
@@ -16,15 +17,6 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
   <li><img src="javascript.png" height="16"/> Javascript</li>
   <li><img src="react.png" height="16"/> React-js</li>
 </ul>
-⚛ React
-📱 React Native
-💻 HTML, CSS, JS 
-
-
-Skills: FLUTTER / Dart / REACT / JS / HTML / CSS / SASS / BOOTSTRAP
-
-- 🔭 I’m currently working on this page. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdelhadimouchrif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i_love_flutter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://amouchrif.netlify.app)  
 
