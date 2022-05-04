@@ -8,6 +8,13 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
 <ul>
   <li><img src="flutter.png" height="16"/> Flutter</li>
   <li><img src="dart.png" height="16"/> Dart</li>
+  <li><img src="firebase.png" height="16"/> Firebase</li>
+  <li><img src="api.png" height="16"/> Rest API</li>
+  <li><img src="html.png" height="16"/> Html</li>
+  <li><img src="css.png" height="16"/> Css</li>
+  <li><img src="sass.png" height="16"/> Sass</li>
+  <li><img src="javascript.png" height="16"/> Javascript</li>
+  <li><img src="react.png" height="16"/> React-js</li>
 </ul>
 ⚛ React
 📱 React Native
