@@ -5,7 +5,7 @@
 I'm a Flutter Developer located in morocco. I have a serious passion for mobile application UI effects, animations, and creating intuitive, dynamic user experiences.
 
 ## Skills And Experience
-<ul>
+<ul style="list-style-type: none; margin:0; padding:0;">
   <li><img src="flutter.png" height="18"/> Flutter</li>
   <li><img src="dart.png" height="18"/> Dart</li>
   <li><img src="firebase.png" height="18"/> Firebase</li>
