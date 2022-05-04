@@ -23,6 +23,9 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
   <source src="https://drive.google.com/file/d/1n98uhpCRRxxGVinDoLPZL47WOPMo11hU/view?usp=sharing" type="video/mp4">
 Your browser does not support the video tag.
 </video>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouchrif)](https://github.com/anuraghazra/github-readme-stats)
 
