@@ -4,8 +4,7 @@
 
 I'm a Flutter Developer located in morocco. I have a serious passion for mobile application UI effects, animations, and creating intuitive, dynamic user experiences.
 
-## 
-## Skills
+## Skills And Experience
 <ul>
   <li><img src="flutter.png" height="16"/> Flutter</li>
   <li><img src="dart.png" height="16"/> Dart</li>
@@ -17,6 +16,13 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
   <li><img src="javascript.png" height="16"/> Javascript</li>
   <li><img src="react.png" height="16"/> React-js</li>
 </ul>
+
+## Examples Of Works
+
+<video width="320" height="240" controls>
+  <source src="https://drive.google.com/file/d/1n98uhpCRRxxGVinDoLPZL47WOPMo11hU/view?usp=sharing" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouchrif)](https://github.com/anuraghazra/github-readme-stats)
 
