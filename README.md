@@ -25,6 +25,7 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
    target="_blank"><img src="siya9a.png" alt="Grocery App" width="240" height="120" border="10" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouchrif)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mouchrif&count_private=true)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='24'>](https://www.linkedin.com/in/abdelhadimouchrif/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='24'>](https://www.instagram.com/i_love_flutter/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='24'>](https://amouchrif.netlify.app)  
 
