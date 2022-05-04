@@ -6,7 +6,7 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
 
 Skills: FLUTTER / Dart / REACT / JS / HTML / CSS / SASS / BOOTSTRAP
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mouchrif)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
