@@ -6,8 +6,8 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
 
 ## Skills And Experience
 <ul>
-  <li>Flutter</li>
-  <li>Dart</li>
+  <li><img src="flutter.png" /> Flutter</li>
+  <li><img src="dart.png" /> Dart</li>
 </ul>
 ⚛ React
 📱 React Native
