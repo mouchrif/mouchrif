@@ -6,8 +6,8 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
 
 ## Skills And Experience
 <ul>
-  <li><img src="flutter.png" height="18"/> Flutter</li>
-  <li><img src="dart.png" height="18"/> Dart</li>
+  <li><img src="flutter.svg" height="18"/> Flutter</li>
+  <li><img src="dart.svg" height="18"/> Dart</li>
   <li><img src="firebase.png" height="18"/> Firebase</li>
   <li><img src="api.png" height="18"/> Rest API</li>
   <li><img src="html.png" height="18"/> Html</li>
