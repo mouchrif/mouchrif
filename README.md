@@ -8,13 +8,13 @@ I'm a Flutter Developer located in morocco. I have a serious passion for mobile 
 <ul>
   <li><img src="flutter.svg" height="18"/> Flutter</li>
   <li><img src="dart.svg" height="18"/> Dart</li>
-  <li><img src="firebase.png" height="18"/> Firebase</li>
-  <li><img src="api.png" height="18"/> Rest API</li>
-  <li><img src="html.png" height="18"/> Html</li>
-  <li><img src="css.png" height="18"/> Css</li>
-  <li><img src="sass.png" height="18"/> Sass</li>
-  <li><img src="javascript.png" height="18"/> Javascript</li>
-  <li><img src="react.png" height="18"/> React-js</li>
+  <li><img src="firebase.svg" height="18"/> Firebase</li>
+  <li><img src="api.svg" height="18"/> Rest API</li>
+  <li><img src="html.svg" height="18"/> Html</li>
+  <li><img src="css.svg" height="18"/> Css</li>
+  <li><img src="sass.svg" height="18"/> Sass</li>
+  <li><img src="javascript.svg" height="18"/> Javascript</li>
+  <li><img src="react.svg" height="18"/> React-js</li>
 </ul>
 
 ## Examples Of Works
