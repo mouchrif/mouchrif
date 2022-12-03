@@ -1,8 +1,5 @@
-# Hi 👋, I'm Abdelhadi
-
-# 💫 About Me:
+# 💫 Hi 👋, I'm Abdelhadi
 I'm a Flutter Developer located in morocco. I have a serious passion for mobile application UI effects, animations, and creating intuitive, dynamic user experiences.
-
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/i_love_flutter/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelhadimouchrif/) 
