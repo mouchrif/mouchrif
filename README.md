@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Abdelhadi
 I'm a Flutter Developer located in morocco. I have a serious passion for mobile application UI effects, animations, and creating intuitive, dynamic user experiences.
 
-💬 Ask me about Flutter, Dart<br>📫 Reach me at abdelhadimouchrifdev@gmail.com<br>👨‍💻 All of my projects are available at https://amouchrif.netlify.app<br>📄  Know about my experiences at https://amouchrif.netlify.app<br>
+💬 Ask me about Flutter, Dart<br>📫 Reach me at abdelhadimouchrifdev@gmail.com<br>👨‍💻 All of my projects are available at https://amouchrif.netlify.app<br>📄  Know about my experiences at https://abdelhadimouchrif.netlify.app<br>
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_love_flutter) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdelhadimouchrif) 
